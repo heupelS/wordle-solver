@@ -1,7 +1,6 @@
 #%%
 from itertools import count
 import numpy as np
-import matplotlib.pyplot as plt
 import string
 
 
