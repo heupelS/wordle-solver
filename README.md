@@ -1,10 +1,10 @@
 # Wordle Solver & Game Implementation
 
-This is an implementation of the Wordle game that can be played by a human player in the console. The Wordle game involves guessing a secret word within a limited number of attempts and receiving feedback for each guess.
+This is an implementation of the [Wordle game](https://www.nytimes.com/games/wordle/index.html) that can be played by a human player in the console. The Wordle game involves guessing a secret word within a limited number of attempts and receiving feedback for each guess.
 
 **Solving Wordle:**
 
-This implementation focuses on the solving aspect of the Wordle game and offers two distinct approaches to find the secret word:
+This implementation focuses on the solving aspect of the [Wordle game](https://www.nytimes.com/games/wordle/index.html) and offers two distinct approaches to find the secret word:
 
 1. **Expected Information Gain Approach:** This approach uses the concept of entropy to calculate the expected information gain for each possible word. It is more accurate in selecting the next guess but can be slower due to its computational complexity.
 
