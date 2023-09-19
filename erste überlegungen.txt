@@ -1,0 +1,17 @@
+1.Grundkonzept
+	1. Solver über User Input - Output
+	2. Solver mit automatischem ausfüllen in wordlegame.org
+2. Algorithmus
+	1. Neurolanes Netz (wenig Sinn hier)
+	2. Machine learning algorithmus
+	3. Wahrscheinlichkeitsbasierter algorithmus
+		- welches wort ist am wahrscheinlichsten
+		- welche formeln?
+
+
+Transkript:
+
+- Eine Analyse für die Eingabe des ersten Wortes
+	-> am ende der analyse hat man ein wort, dass man immer am anfang eingibt
+	-> methode: jedes mögliche wort (1000 mal) testen und das Feedback erhalten
+	-> somit ist die statis
